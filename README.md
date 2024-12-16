@@ -61,7 +61,7 @@ Balancing these constraints is up to your discretion. Aim to provide a well-reas
 ## Solution Proposal
 
 * This is a VRPTW problem (Vehicle Routing Problem With Time Window) including pickup and delivery constraint. You are expected to use OR-Tools in your solution and routing package is preferred. You can find detailed instructions about how to install OR-Tools in https://developers.google.com/optimization/install and more details about routing package in https://developers.google.com/optimization/routing
-* You can use any programming language, but using Java is preferable. 
+* You can use Java or Python programming languages. 
 * It does not matter if you read the input data from the file or if you put it directly into your code. Also, you can print the solution to the console or to a file, which does not matter too. What matters is how you approach to the problem and emphasize your reasoning. 
 * Push your solution to `origin/<your-branch-name>`, and create a pull request. Please do not merge your pull request.
 * Explaining your reasoning within code comments and PR description would be appreciated.
